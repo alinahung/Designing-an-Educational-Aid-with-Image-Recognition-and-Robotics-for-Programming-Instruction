@@ -33,7 +33,7 @@
 3. **麥坤小車根據指令移動**：麥坤小車根據指令進行移動，遇到障礙物則停止。
 4. **Linebot顯示收集到的資源**：Linebot 紀錄並將玩家收集到的資源顯示在聊天室中。
 
-<img width="500" alt="截圖 2024-08-15 清晨6 44 25" src="https://github.com/user-attachments/assets/df7784af-c57f-40bd-9ed5-b55d869802ef">
+<img width="800" alt="截圖 2024-08-15 清晨6 44 25" src="https://github.com/user-attachments/assets/df7784af-c57f-40bd-9ed5-b55d869802ef">
 
 ## 遇到的問題與解決方式
 
