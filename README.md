@@ -8,7 +8,7 @@
 1. MIT App Inventor（開發手機 APP）
 2. Personal Image Classifier (PIC) Tools（影像辨識訓練）
 3. MakeCode（編寫micro:bit小車的程式）
-4. Python（Linebot 聊天機器人建立）
+4. Python（LineBot 聊天機器人建立）
 
 ## 硬體
 
